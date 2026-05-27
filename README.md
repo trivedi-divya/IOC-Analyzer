@@ -39,16 +39,21 @@ CSV report with verdicts and contextual information.
 ## Usage
 
 1. Prepare a CSV file named iocs.csv with a header row
+
 Example:
+
 ioc
+
 8.8.8.8
+
 google.com
+
 44d88612fea8a8f36de82e1278abb02f
 
-2. Run the script
+3. Run the script
 **python ioc_analyzer.py**
 
-3. Results will be saved to vt_results.csv
+4. Results will be saved to vt_results.csv
 
 ## Output Fields
 
