@@ -74,6 +74,9 @@ analysts need to triage large numbers of IOCs quickly during active investigatio
 ## Author
 
 Divya Trivedi
+
 DFIR Analyst | Digital Forensics | Incident Response
+
 https://www.linkedin.com/in/trivedi-divya/
+
 https://medium.com/@dgtrivedi4646/
