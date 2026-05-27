@@ -25,4 +25,4 @@ Results are saved to vt_results.csv with the following fields:
 IOC, Type, Malicious, Suspicious, Clean, Verdict, Country, ASN, Threat Label, Creation Date
 
 ## Author
-Divya Trivedi — DFIR Analyst
+Divya Trivedi | DFIR Analyst
