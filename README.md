@@ -42,13 +42,11 @@ CSV report with verdicts and contextual information.
 
 Example:
 
-ioc
-
-8.8.8.8
-
-google.com
-
-44d88612fea8a8f36de82e1278abb02f
+| ioc |
+|-------|
+|8.8.8.8|
+|google.com|
+|44d88612fea8a8f36de82e1278abb02f|
 
 3. Run the script
 **python ioc_analyzer.py**
