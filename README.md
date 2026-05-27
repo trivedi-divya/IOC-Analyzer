@@ -13,8 +13,8 @@ CSV report with verdicts and contextual information.
 
 ## Features
 
-- Supports multiple IOC types — MD5, SHA1, SHA256 hashes, IP addresses, domains, and URLs
-- Auto-detects IOC type from input — no manual categorization needed
+- Supports multiple IOC types like MD5, SHA1, SHA256 hashes, IP addresses, domains, and URLs
+- Auto-detects IOC type from input so no manual categorization needed
 - Queries VirusTotal API for each IOC
 - Generates structured CSV report with verdict, threat labels, and geo-information
 - Handles rate limiting automatically with built-in delay between requests
